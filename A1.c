@@ -18,7 +18,6 @@ void print_coin_combinations(int cents) {
 
 int main() {
     int cents;
-    scanf("%d", &cents);
     print_coin_combinations(cents);
 
     return 0;
